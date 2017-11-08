@@ -1,2 +1,2 @@
-# tu
-tu.ioliu.cn
+# lol
+https://lol.js.org
