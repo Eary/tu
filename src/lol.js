@@ -1,6 +1,6 @@
 /**
  * LOL
- * Valine Comment System Data management platform
+ * Data management platform
  * https://github.com/xCss
 */
 
